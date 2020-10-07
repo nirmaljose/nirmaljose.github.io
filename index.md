@@ -1,5 +1,8 @@
 # Nirmal Jose
 ***
-
-
-## DFIR
+## Experience 
+## Projects
+## Technial Knowledge
+### Scripting
+### SIEM
+### Digital Forensic
